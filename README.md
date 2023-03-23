@@ -11,7 +11,7 @@
     <a href="#"><strong>Chi Zhang</strong></a>
     ·
     <a href="#"><strong>Heming Cui</strong></a>
-    <br>
+     ·
     <a href="#"><strong>Zhaoxiang zhang</strong></a>
     
   </p>
