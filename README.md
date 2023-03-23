@@ -4,7 +4,7 @@
 
   <h1 align="center"><strong>NeurNCD</strong>: Novel Class Discovery via Implicit Neural Representation</h1>
   <p align="center">
-    <a href="https://pengsongyou.github.io"><strong>Junming Wang</strong></a>
+    <a href="https://jmwangcs.netlify.app/"><strong>Junming Wang</strong></a>
     ·
     <a href="#"><strong>Wenbo Cheng</strong></a>
     ·
