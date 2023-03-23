@@ -16,7 +16,7 @@
     
   </p>
   
-  <h3 align="center"><a href="https://arxiv.org/abs/2211.15654">Paper</a> | <a href="https://youtu.be/jZxCLHyDJf8">Video</a> | <a href="https://pengsongyou.github.io/openscene">Project Page</a></h3>
+  <h3 align="center"><a href="#">Paper</a> | <a href="#">Video</a> | <a href="#">Project Page</a></h3>
   <div align="center"></div>
 </p>
 
