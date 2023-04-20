@@ -9,8 +9,7 @@
     <a href="#"><strong>Wenbo Cheng</strong></a>
     ·
     <a href="#"><strong>Chi Zhang</strong></a>
-    ·
-    <a href="#"><strong>Heming Cui</strong></a>
+
      ·
     <a href="#"><strong>Zhaoxiang zhang</strong></a>
     
